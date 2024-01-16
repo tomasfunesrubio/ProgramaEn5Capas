@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?>
+<Gestion>
+  <xs:schema id="Gestion" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="Gestion" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Cuentas">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="ID" type="xs:string" />
+                <xs:element name="Saldo" type="xs:decimal" minOccurs="0" />
+                <xs:element name="AcuerdoDescubierto" type="xs:decimal" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+      <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+        <xs:selector xpath=".//Cuentas" />
+        <xs:field xpath="ID" />
+      </xs:unique>
+    </xs:element>
+  </xs:schema>
+  <Cuentas>
+    <ID>0000-AAA</ID>
+    <Saldo>50000</Saldo>
+    <AcuerdoDescubierto>5000</AcuerdoDescubierto>
+  </Cuentas>
+</Gestion>

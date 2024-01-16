@@ -1,0 +1,11 @@
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\Mapeador\bin\Debug\Mapeador.dll
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\Mapeador\bin\Debug\Mapeador.pdb
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\Mapeador\bin\Debug\BE.dll
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\Mapeador\bin\Debug\DAL.dll
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\Mapeador\bin\Debug\BE.pdb
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\Mapeador\bin\Debug\DAL.pdb
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\Mapeador\obj\Debug\Mapeador.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\Mapeador\obj\Debug\Mapeador.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\Mapeador\obj\Debug\Mapeador.csproj.CopyComplete
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\Mapeador\obj\Debug\Mapeador.dll
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\Mapeador\obj\Debug\Mapeador.pdb

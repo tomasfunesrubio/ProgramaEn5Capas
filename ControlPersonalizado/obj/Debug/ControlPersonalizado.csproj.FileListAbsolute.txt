@@ -1,0 +1,17 @@
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\ControlPersonalizado\bin\Debug\ControlPersonalizado.dll
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\ControlPersonalizado\bin\Debug\ControlPersonalizado.pdb
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\ControlPersonalizado\bin\Debug\BE.dll
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\ControlPersonalizado\bin\Debug\BLL.dll
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\ControlPersonalizado\bin\Debug\Mapeador.dll
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\ControlPersonalizado\bin\Debug\DAL.dll
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\ControlPersonalizado\bin\Debug\BE.pdb
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\ControlPersonalizado\bin\Debug\BLL.pdb
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\ControlPersonalizado\bin\Debug\Mapeador.pdb
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\ControlPersonalizado\bin\Debug\DAL.pdb
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\ControlPersonalizado\obj\Debug\ControlPersonalizado.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\ControlPersonalizado\obj\Debug\ControlPersonalizado.UserControl1.resources
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\ControlPersonalizado\obj\Debug\ControlPersonalizado.csproj.GenerateResource.cache
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\ControlPersonalizado\obj\Debug\ControlPersonalizado.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\ControlPersonalizado\obj\Debug\ControlPersonalizado.csproj.CopyComplete
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\ControlPersonalizado\obj\Debug\ControlPersonalizado.dll
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\ControlPersonalizado\obj\Debug\ControlPersonalizado.pdb

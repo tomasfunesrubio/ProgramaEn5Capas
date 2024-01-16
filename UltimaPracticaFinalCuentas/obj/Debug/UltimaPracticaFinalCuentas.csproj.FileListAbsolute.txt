@@ -1,0 +1,42 @@
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\bin\Debug\UltimaPracticaFinalCuentas.exe.config
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\bin\Debug\UltimaPracticaFinalCuentas.exe
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\bin\Debug\UltimaPracticaFinalCuentas.pdb
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\obj\Debug\UltimaPracticaFinalCuentas.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\obj\Debug\UltimaPracticaFinalCuentas.Form1.resources
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\obj\Debug\UltimaPracticaFinalCuentas.Properties.Resources.resources
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\obj\Debug\UltimaPracticaFinalCuentas.csproj.GenerateResource.cache
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\obj\Debug\UltimaPracticaFinalCuentas.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\obj\Debug\UltimaPracticaFinalCuentas.exe
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\obj\Debug\UltimaPracticaFinalCuentas.pdb
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\bin\Debug\BE.dll
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\bin\Debug\BLL.dll
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\bin\Debug\ControlPersonalizado.dll
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\bin\Debug\Mapeador.dll
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\bin\Debug\DAL.dll
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\bin\Debug\ControlPersonalizado.pdb
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\bin\Debug\BE.pdb
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\bin\Debug\BLL.pdb
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\bin\Debug\Mapeador.pdb
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\bin\Debug\DAL.pdb
+C:\Users\tomas\OneDrive\Desktop\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\obj\Debug\UltimaPracticaFinalCuentas.csproj.CopyComplete
+C:\Users\tomas\OneDrive\Desktop\Cuatrimestre cuarto\Programacion en capas\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\bin\Debug\UltimaPracticaFinalCuentas.exe.config
+C:\Users\tomas\OneDrive\Desktop\Cuatrimestre cuarto\Programacion en capas\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\bin\Debug\UltimaPracticaFinalCuentas.exe
+C:\Users\tomas\OneDrive\Desktop\Cuatrimestre cuarto\Programacion en capas\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\bin\Debug\UltimaPracticaFinalCuentas.pdb
+C:\Users\tomas\OneDrive\Desktop\Cuatrimestre cuarto\Programacion en capas\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\bin\Debug\BE.dll
+C:\Users\tomas\OneDrive\Desktop\Cuatrimestre cuarto\Programacion en capas\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\bin\Debug\BLL.dll
+C:\Users\tomas\OneDrive\Desktop\Cuatrimestre cuarto\Programacion en capas\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\bin\Debug\ControlPersonalizado.dll
+C:\Users\tomas\OneDrive\Desktop\Cuatrimestre cuarto\Programacion en capas\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\bin\Debug\Mapeador.dll
+C:\Users\tomas\OneDrive\Desktop\Cuatrimestre cuarto\Programacion en capas\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\bin\Debug\DAL.dll
+C:\Users\tomas\OneDrive\Desktop\Cuatrimestre cuarto\Programacion en capas\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\bin\Debug\ControlPersonalizado.pdb
+C:\Users\tomas\OneDrive\Desktop\Cuatrimestre cuarto\Programacion en capas\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\bin\Debug\BE.pdb
+C:\Users\tomas\OneDrive\Desktop\Cuatrimestre cuarto\Programacion en capas\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\bin\Debug\BLL.pdb
+C:\Users\tomas\OneDrive\Desktop\Cuatrimestre cuarto\Programacion en capas\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\bin\Debug\Mapeador.pdb
+C:\Users\tomas\OneDrive\Desktop\Cuatrimestre cuarto\Programacion en capas\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\bin\Debug\DAL.pdb
+C:\Users\tomas\OneDrive\Desktop\Cuatrimestre cuarto\Programacion en capas\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\obj\Debug\UltimaPracticaFinalCuentas.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Desktop\Cuatrimestre cuarto\Programacion en capas\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\obj\Debug\UltimaPracticaFinalCuentas.Form1.resources
+C:\Users\tomas\OneDrive\Desktop\Cuatrimestre cuarto\Programacion en capas\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\obj\Debug\UltimaPracticaFinalCuentas.Properties.Resources.resources
+C:\Users\tomas\OneDrive\Desktop\Cuatrimestre cuarto\Programacion en capas\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\obj\Debug\UltimaPracticaFinalCuentas.csproj.GenerateResource.cache
+C:\Users\tomas\OneDrive\Desktop\Cuatrimestre cuarto\Programacion en capas\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\obj\Debug\UltimaPracticaFinalCuentas.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Desktop\Cuatrimestre cuarto\Programacion en capas\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\obj\Debug\UltimaPracticaFinalCuentas.csproj.CopyComplete
+C:\Users\tomas\OneDrive\Desktop\Cuatrimestre cuarto\Programacion en capas\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\obj\Debug\UltimaPracticaFinalCuentas.exe
+C:\Users\tomas\OneDrive\Desktop\Cuatrimestre cuarto\Programacion en capas\UltimaPracticaFinalCuentas\UltimaPracticaFinalCuentas\obj\Debug\UltimaPracticaFinalCuentas.pdb
